@@ -3,7 +3,7 @@ title: F7-DAOs-Cardano
 description: How can we make Cardano the go-to choice for DAOs to manage themselves?
 Ideascale: https://cardano.ideascale.com/a/campaign-home/26237
 ---
-![2021-11-24 (2)](https://user-images.githubusercontent.com/25156451/143222960-f4889ea5-814e-49a2-8d8a-5a3146520423.png)
+![2021-11-24 (4)](https://user-images.githubusercontent.com/25156451/143282690-21c971cc-9101-4411-91ed-b87a53c888c0.png)
 
 # F7-DAOs-Cardano 
 
