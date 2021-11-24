@@ -23,7 +23,7 @@ Welcome to the GitHub repository of F7-DAOs-Cardano
 
 [![GitHub open issues](https://img.shields.io/github/issues/Catalyst-Challenges/F7-DAOs-Cardano?style=flat-square)](https://github.com/Catalyst-Challenges/F7-DAOs-Cardano/issues)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/Catalyst-Challenges/F7-DAOs-Cardano?style=flat-square)](https://github.com/Catalyst-Challenges/F7-DAOs-Cardano/milestones)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Catalyst-Challenges/F7-DAOs-Cardano?style=flat-square)](https://github.com/Catalyst-Challenges/F7-DAOs-Cardano/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Catalyst-Challenges/F7-DAOs-Cardano?style=flat-square)](https://github.com/Catalyst-Challenges/F7-DAOs-Cardano/issues?q=is%3Aissue+is%3Aclosed)
 
 
 - Created by https://quality-assurance-dao.github.io/. The aim of the QA-DAO is to encourage collaboration and innovation across all open-source Catalyst Projects.
